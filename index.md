@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to 0ld Camel's blog
 ---
 
 ## Who is Cau?
